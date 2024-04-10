@@ -70,7 +70,7 @@ adjusted r2 = 0.845
 #### contacts
 Created by Susrita Das
 https://github.com/SusritaDas/BikeSharing-Assignment
-Group : C55
+Group : C61
 
 #### Acknowledgements
 Inspired by teacher Akashdeep Makkar
